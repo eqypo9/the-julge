@@ -34,7 +34,7 @@
 
 ## 1. 개발 환경
 
-- **Front-end**: React, Next.js, Styled-components, Zod, Axios, Zustand, React-query
+- **Front-end**: React, TypeScript, Next.js, Styled-components, Zod, Axios, Zustand, React-query
 - **Back-end**: 제공된 API 활용
 - **버전 및 이슈 관리**: GitHub
 - **협업 툴**: Discord, Notion, Zoom
